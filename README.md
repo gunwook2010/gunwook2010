@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunwook2010
-- 👀 I’m interested in js
-- 🌱 I’m currently learning php
+- 👀 I’m interested in python
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on with friend
 - 📫 How to reach me pull
 
